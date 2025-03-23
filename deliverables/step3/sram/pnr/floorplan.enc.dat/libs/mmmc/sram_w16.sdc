@@ -1,0 +1,1 @@
+/home/linux/ieng6/ee260bwi25/b8kang/step3/sram/pnr/constraints/sram_w16.sdc
